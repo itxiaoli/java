@@ -1,12 +1,10 @@
-package com;
-
 /**
  * @author xiaoli
- * @className Test
+ * @className java
  * @description:
- * @date 2021/12/10 22:45
+ * @date 2021/12/10 22:48
  */
-public class Test {
+public class java {
     public static void main(String[] args) {
 
     }
